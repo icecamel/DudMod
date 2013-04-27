@@ -1,0 +1,20 @@
+[
+{
+  "modid": "DudMod",
+  "name": "DudMod",
+  "description": "Custom Achievement Pages",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "icecamel"
+  ],
+  "credits": "",
+  "logoFile": "/textures/logo/dudmodlogo2.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
